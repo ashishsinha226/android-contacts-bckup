@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1376488261000 424 717818323f9e9b60b184a1974ef09089474c3079 /home/ashish/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/myapplication/R$layout.class
+1376488261000 747 8c6f0b9b539383848a0290db986ad06085b8a18a /home/ashish/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/myapplication/R.class
+1376488261000 831 29e80d5f28e0418c94bb10cc623d98268f16d0e0 /home/ashish/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/myapplication/MainActivity.class
+1369432937000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d /home/ashish/Code/android-studio/sdk/extras/android/m2repository/com/android/support/support-v4/13.0.0/support-v4-13.0.0.jar
+1376488261000 414 f05ddb2ac2567c83deb94b8089532e72b5d137dc /home/ashish/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/myapplication/R$id.class
+1376488261000 409 c313bc16ac45d488e57698304be014e28af97566 /home/ashish/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/myapplication/R$menu.class
+1376488261000 361 e63ebf6bf1ea61b8b5ed2732fafe5c27d23e8041 /home/ashish/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/myapplication/R$attr.class
+1376488261000 482 faada894e924919263c56b8f52dfdc73ffaae454 /home/ashish/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/myapplication/R$dimen.class
+1376488261000 428 55a643a0b155fd26d3984e444062582e16cdb5aa /home/ashish/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/myapplication/R$drawable.class
+1376488261000 359 fdc73ac1e1da2010356e9bbf147ce969332b18da /home/ashish/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/myapplication/BuildConfig.class
+1376488261000 493 e50e8ac7d87578cf0f9d17817f43dd85af7bc685 /home/ashish/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/myapplication/R$string.class
+1376488261000 452 b903ba99e69168667b72c64576166105f20e954d /home/ashish/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/myapplication/R$style.class

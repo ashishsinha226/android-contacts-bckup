@@ -1,0 +1,13 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1376488259000 263 eadfe31d03f5ef22389b31bef304833572a95935 /home/ashish/AndroidStudioProjects/MyApplicationProject/MyApplication/build/res/all/debug/values-sw720dp-land/values.xml
+1376488259000 5946 4bf7402bd7df466a787014bdbf5cafd9aa89c2b5 /home/ashish/AndroidStudioProjects/MyApplicationProject/MyApplication/build/res/all/debug/drawable-hdpi/ic_launcher.png
+1376488259000 776 db1f2d80fa1fc77c234f9617a26546f2803f8487 /home/ashish/AndroidStudioProjects/MyApplicationProject/MyApplication/build/res/all/debug/layout/activity_main.xml
+1376488259000 346 242773cfdd1461cca3b978de26029ccf9097614a /home/ashish/AndroidStudioProjects/MyApplicationProject/MyApplication/build/res/all/debug/values-v14/values.xml
+1376488259000 332 7fdd383000911b6c7d71d4835b95ba9c83d8a148 /home/ashish/AndroidStudioProjects/MyApplicationProject/MyApplication/build/res/all/debug/values-v11/values.xml
+1376488259000 3121 c13193c37274d333ac028cc72c260b891662d9d0 /home/ashish/AndroidStudioProjects/MyApplicationProject/MyApplication/build/res/all/debug/drawable-mdpi/ic_launcher.png
+1376488259000 9332 4e0e62a430558d0cce3c5dee6f4709055a63a45c /home/ashish/AndroidStudioProjects/MyApplicationProject/MyApplication/build/res/all/debug/drawable-xhdpi/ic_launcher.png
+1376488259000 1166 f0ffc59b983b192ab78948e1ef9e5b309157fd3a /home/ashish/AndroidStudioProjects/MyApplicationProject/MyApplication/build/res/all/debug/values/values.xml
+1376488259000 360 1c2724dbfc9c5e604905ca3b7bdf4bf96a3cc9db /home/ashish/AndroidStudioProjects/MyApplicationProject/MyApplication/build/res/all/debug/menu/main.xml
+1376488259000 17765 702fd3311475c099afc13c0b03375d917cc82018 /home/ashish/AndroidStudioProjects/MyApplicationProject/MyApplication/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
